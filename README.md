@@ -1,3 +1,11 @@
+# Part 1
+
+
+Below is the graph for different learning rates [0.1, 0.2, 0.5, 0.8, 1.0, 2.0]:
+![image](https://github.com/dknayakbu/ERA-V1-S6-Assignment/assets/20933037/44954277-ab24-425c-8e6f-7db79f57e12f)
+
+
+# Part 2
 # ERA-V1-Assignments for Session 6
 This repository contains all the ERA V1 session 6 Assignments.
 
